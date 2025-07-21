@@ -1,1 +1,2 @@
 # Accelerator-Pedal-Position-Sensor
+APPS is a sensor used in the vehicle's throttle system to measure the position of the accelerator pedal. In an EV, the accelerator pedal position is translated into an electrical signal by the APPS, which is then interpreted by the vehicle's motor controller. Based on this input, the motor controller adjusts the power output of the electric motor(s) to accelerate the vehicle accordingly
